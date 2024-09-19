@@ -1,2 +1,2 @@
-# Auction-Project-Backend
-A RESTful API for online auctions with real-time bidding, built with Spring Boot and MySQL.
+# auction-project-backend
+auction backend project with java SpringBoot and MySQL
