@@ -20,7 +20,7 @@ Before setting up and running the backend of the Football Project, ensure that t
    
    - **Version**: 5.7 or higher
    - **Installation**: [Download MySQL](https://dev.mysql.com/downloads/installer)
-   - **Setup**: Ensure you have a MySQL server running and create a database named 'football_project'
+   - **Setup**: Ensure you have a MySQL server running and create a database named 'auction'
 
 4. **Git (optional, for cloning the repository)**:
    
@@ -37,7 +37,7 @@ To run the application, you’ll need to set up the following environment variab
 
 1. **DB_URL**:
    - **Description**: The URL of the MySQL database
-   - **Example**: DB_URL=jdbc:mysql://localhost:3306/football_project
+   - **Example**: DB_URL=jdbc:mysql://localhost:3306/auction
 
 2. **DB_USERNAME**:
    - **Description**: The username for accessing the MySQL database
