@@ -1,7 +1,7 @@
 # Auction Project: Backend
 
 # Overview 
-**This is the backend for the Auction Project, built with Spring Boot and MySQL. It handles auction operations, including creating auctions, placing bids, managing product listings, and updating user balances in real-time.**
+**This is the backend for the Auction Project, built with Spring Boot and MySQL. It handles auction operations, including creating auctions, placing bids, managing product listings, and updating user balances in real-time, and also handles user authentication and authorization, ensuring secure access to the system.**
 
 ### Prerequisites
 Before setting up and running the backend of the Football Project, ensure that the following software is installed on your system:
