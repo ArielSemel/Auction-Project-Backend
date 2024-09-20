@@ -62,3 +62,15 @@ To run the application, you’ll need to set up the following environment variab
 - Run the project using Maven:
    - mvn clean install
    - mvn spring-boot:run
+
+## Features
+- User registration and secure login.
+- Automatic user balance initialization ($1000 for new users).
+- Auction product management (upload, update and view).
+- Real-time bidding system.
+- Automatic winner determination after auction closure.
+- Balance updates for both bidders and sellers after placing bids or closing Auctions.
+- For every bid placed in an auction, $2 is deducted from the user's balance.
+- The winner of the auction will have an additional 5% of the final bid amount deducted from their balance.
+- A seller can close an auction only after a minimum of 3 bids have been placed.
+- Admin panel for managing users and products.
